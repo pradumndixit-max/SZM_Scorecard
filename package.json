@@ -1,0 +1,8 @@
+{
+  "name": "szm-scorecard",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@google-cloud/bigquery": "^7.3.0"
+  }
+}
